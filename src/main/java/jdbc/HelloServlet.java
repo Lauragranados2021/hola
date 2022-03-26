@@ -1,4 +1,4 @@
-package com.example.hola;
+package jdbc;
 
 import java.io.*;
 import javax.servlet.http.*;

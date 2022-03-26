@@ -13,8 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
+
     <div class="container-fluid">
         <div class="container text-center">
             <h2 class="display-4">Crear Participante</h2>
@@ -140,7 +139,7 @@
     </div>
 </div>
 
-  
+
 <script src="script.js"></script>
 <br/>
 
